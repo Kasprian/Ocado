@@ -1,4 +1,4 @@
-#Solution for OCADO Intership by Piotr Kasprowicz
+# Solution for OCADO Intership by Piotr Kasprowicz
 
 App.java - source code
 out/zadanie-java.jar - jar file with arguments as for example:
